@@ -27,7 +27,7 @@
 | Markdown  | [av39723339](https://www.bilibili.com/video/av39723339) |
 | TXT  | [av39465305](https://www.bilibili.com/video/av39465305) |
 | 画图 | [av39425866](https://www.bilibili.com/video/av39425866)<br />[av39729989](https://www.bilibili.com/video/av39729989) |
-| MMD  | [av39814511](https://www.bilibili.com/video/av39814511)<br />[av39845997](https://www.bilibili.com/video/av39845997) | [av40120653](https://www.bilibili.com/video/av40120653) |
+| MMD  | [av39814511](https://www.bilibili.com/video/av39814511)<br />[av39845997](https://www.bilibili.com/video/av39845997)<br />[av40120653](https://www.bilibili.com/video/av40120653) |
 | B站 | [av39693356](https://www.bilibili.com/video/av39693356) |
 | B站弹幕 | [av39541633](https://www.bilibili.com/video/av39541633)<br />[av39857859](https://www.bilibili.com/video/av39857859) |
 | 三合一 | [av39440955](https://www.bilibili.com/video/av39440955) |
