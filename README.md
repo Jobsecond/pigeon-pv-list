@@ -16,13 +16,14 @@
 | 真•鸽子图 | [av39656965](https://www.bilibili.com/video/av39656965) |
 | Excel  | [av39368600](https://www.bilibili.com/video/av39368600)<br />[av39439786](https://www.bilibili.com/video/av39439786)<br />[av39651446](https://www.bilibili.com/video/av39651446) |
 | FL  | [av39422865](https://www.bilibili.com/video/av39422865) |
-| PPT  | [av39420690](https://www.bilibili.com/video/av39420690)<br />[av39548552](https://www.bilibili.com/video/av39548552)<br />[av39514566](https://www.bilibili.com/video/av39514566) |
+| PPT  | [av39420690](https://www.bilibili.com/video/av39420690)<br />[av39548552](https://www.bilibili.com/video/av39548552)<br />[av39514566](https://www.bilibili.com/video/av39514566)<br />[av40038446](https://www.bilibili.com/video/av40038446)<br />[av40593929](https://www.bilibili.com/video/av40593929) |
 | C++  | [av39427616](https://www.bilibili.com/video/av39427616)<br />[av39425005](https://www.bilibili.com/video/av39425005)<br />[av39473386](https://www.bilibili.com/video/av39473386)<br />[av39663306](https://www.bilibili.com/video/av39663306)<br />[av40312245](https://www.bilibili.com/video/av40312245) |
 | C# | [av40082299](https://www.bilibili.com/video/av40082299) |
 | Unity + C# | [av39789577](https://www.bilibili.com/video/av39789577) |
 | Java | [av39669038](https://www.bilibili.com/video/av39669038)<br />[av39679379](https://www.bilibili.com/video/av39679379) |
-| BASIC  | [av39479729](https://www.bilibili.com/video/av39479729)<br />[av39533813](https://www.bilibili.com/video/av39533813)<br />[av39529780](https://www.bilibili.com/video/av39529780)<br />[av39753796](https://www.bilibili.com/video/av39753796)<br />[av39859914](https://www.bilibili.com/video/av39859914)<br />[av39968719](https://www.bilibili.com/video/av39968719) |
+| BASIC  | [av39479729](https://www.bilibili.com/video/av39479729)<br />[av39533813](https://www.bilibili.com/video/av39533813)<br />[av39529780](https://www.bilibili.com/video/av39529780)<br />[av39753796](https://www.bilibili.com/video/av39753796)<br />[av39859914](https://www.bilibili.com/video/av39859914)<br />[av39951376](https://www.bilibili.com/video/av39951376)<br />[av39968719](https://www.bilibili.com/video/av39968719) |
 | Python  | [av39502477](https://www.bilibili.com/video/av39502477)<br />[av39546673](https://www.bilibili.com/video/av39546673)<br />[av39504056](https://www.bilibili.com/video/av39504056)<br />[av40029529](https://www.bilibili.com/video/av40029529) |
+| MATLAB | [av40603969](https://www.bilibili.com/video/av40603969) |
 | HTML  | [av39519898](https://www.bilibili.com/video/av39519898)<br />[av39580499](https://www.bilibili.com/video/av39580499)<br />[av39662341](https://www.bilibili.com/video/av39662341)<br />[av39730366](https://www.bilibili.com/video/av39730366)<br />[av39754409](https://www.bilibili.com/video/av39754409)<br />[av40023450](https://www.bilibili.com/video/av40023450) |
 | Markdown  | [av39723339](https://www.bilibili.com/video/av39723339) |
 | TXT  | [av39465305](https://www.bilibili.com/video/av39465305) |
@@ -38,6 +39,7 @@
 | RGSS  | [av39525851](https://www.bilibili.com/video/av39525851) |
 | 橙光 | [av39534804](https://www.bilibili.com/video/av39534804) |
 | PS  | [av39552415](https://www.bilibili.com/video/av39552415) |
+| 嵌字 | [av40179307](https://www.bilibili.com/video/av40179307) |
 | V+  | [av39551925](https://www.bilibili.com/video/av39551925)<br />[av39656825](https://www.bilibili.com/video/av39656825) |
 | 手机桌面 | [av39553311](https://www.bilibili.com/video/av39553311) |
 | 易语言 | [av39537174](https://www.bilibili.com/video/av39537174) |
@@ -52,7 +54,7 @@
 | Flash  | [av39585919](https://www.bilibili.com/video/av39585919) |
 | 手机相册 | [av39556552](https://www.bilibili.com/video/av39556552)<br />[av39646160](https://www.bilibili.com/video/av39646160)<br />[av39647107](https://www.bilibili.com/video/av39647107)<br />[av39722733](https://www.bilibili.com/video/av39722733) |
 | 疯狂戴夫 | [av39609815](https://www.bilibili.com/video/av39609815) |
-| QQ / TIM | [av39660528](https://www.bilibili.com/video/av39660528)<br />[av39330059](https://www.bilibili.com/video/av39330059)<br />[av39673778](https://www.bilibili.com/video/av39673778)<br />[av39922667](https://www.bilibili.com/video/av39922667)<br />[av39997170](https://www.bilibili.com/video/av39997170)<br />[av40492714](https://www.bilibili.com/video/av40492714) |
+| QQ / TIM | [av39660528](https://www.bilibili.com/video/av39660528)<br />[av39330059](https://www.bilibili.com/video/av39330059)<br />[av39673778](https://www.bilibili.com/video/av39673778)<br />[av39922667](https://www.bilibili.com/video/av39922667)<br />[av39997170](https://www.bilibili.com/video/av39997170)<br />[av40492714](https://www.bilibili.com/video/av40492714)<br />[av40625854](https://www.bilibili.com/video/av40625854) |
 | CAD  | [av39675200](https://www.bilibili.com/video/av39675200) |
 | SolidWorks  | [av39686924](https://www.bilibili.com/video/av39686924) |
 | AD  | [av39685589](https://www.bilibili.com/video/av39685589) |
@@ -65,6 +67,7 @@
 | iOS提醒 | [av39665590](https://www.bilibili.com/video/av39665590) |
 | BesLyric  | [av39598288](https://www.bilibili.com/video/av39598288) |
 | Gmod  | [av39575287](https://www.bilibili.com/video/av39575287) |
+| 全员恶人 | [av39769059](https://www.bilibili.com/video/av39769059) |
 | ナユタン星人 | [av39769658](https://www.bilibili.com/video/av39769658) |
 | FlipaClip  | [av39763286](https://www.bilibili.com/video/av39763286) |
 | 手书某幻君 | [av39695810](https://www.bilibili.com/video/av39695810) |
@@ -75,10 +78,13 @@
 | 3ds Max | [av40104436](https://www.bilibili.com/video/av40104436) |
 | Arduino | [av40391379](https://www.bilibili.com/video/av40391379) |
 | 炉石传说 | [av40364672](https://www.bilibili.com/video/av40364672) |
+| SAI | [av40555121](https://www.bilibili.com/video/av40555121) |
+| 网易云音乐歌单 | [av40594903](https://www.bilibili.com/video/av40594903) |
 
 ## 翻唱
 | 类型 | av号 |
 | --- | --- |
+| 三无 | [av40394565](https://www.bilibili.com/video/av40394565) |
 | 升华版 | [av39417791](https://www.bilibili.com/video/av39417791)<br />[av39658821](https://www.bilibili.com/video/av39658821)<br />[av39578229](https://www.bilibili.com/video/av39578229) |
 | 计算器 | [av39409791](https://www.bilibili.com/video/av39409791) |
 | 花枝春野（真人） | [av39528460](https://www.bilibili.com/video/av39528460) |
@@ -89,8 +95,12 @@
 | 8bit  | [av39752816](https://www.bilibili.com/video/av39752816) |
 | 谷歌  | [av39634584](https://www.bilibili.com/video/av39634584) |
 | 深夜鸽子 | [av39700408](https://www.bilibili.com/video/av39700408) |
+| 翻奏&翻唱 | [av39961905](https://www.bilibili.com/video/av39961905) |
 | 依绫言心合唱 | [av40010481](https://www.bilibili.com/video/av40010481) |
+| 云溪 | [av40215164](https://www.bilibili.com/video/av40215164) |
 | 【跨语种】【镜音铃·连】 | [av40244748](https://www.bilibili.com/video/av40244748) |
+| 牧元栗 | [av40422103](https://www.bilibili.com/video/av40422103) |
+| 葛平 | [av40560915](https://www.bilibili.com/video/av40560915) |
 
 ## 重新填词
 
@@ -98,3 +108,10 @@
 | --- | --- |
 | 咸鱼 | [av40341932](https://www.bilibili.com/video/av40341932) |
 | 复读机 | [av40261174](https://www.bilibili.com/video/av40261174) |
+| 日语填词 | [av40624327](https://www.bilibili.com/video/av40624327) |
+
+## 鬼畜
+| 类型 | av号 |
+| --- | --- |
+| 义结筋澜 | [av40632804](https://www.bilibili.com/video/av40632804) |
+| 章鱼哥 | [av39774487](https://www.bilibili.com/video/av39774487) |
