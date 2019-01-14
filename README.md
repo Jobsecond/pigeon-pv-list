@@ -110,6 +110,8 @@
 | 【跨语种】【镜音铃·连】 | [av40244748](https://www.bilibili.com/video/av40244748) |
 | 牧元栗 | [av40422103](https://www.bilibili.com/video/av40422103) |
 | 葛平 | [av40560915](https://www.bilibili.com/video/av40560915) |
+| 乡路小逢 | [av40717294](https://www.bilibili.com/video/av40717294) |
+| ochako | [av40738297](https://www.bilibili.com/video/av40738297) |
 
 ## 重新填词
 
