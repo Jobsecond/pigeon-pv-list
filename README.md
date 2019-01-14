@@ -31,13 +31,13 @@
 | Unity + C# | [av39789577](https://www.bilibili.com/video/av39789577) |
 | Java | [av39669038](https://www.bilibili.com/video/av39669038)<br />[av39679379](https://www.bilibili.com/video/av39679379) |
 | BASIC  | [av39479729](https://www.bilibili.com/video/av39479729)<br />[av39533813](https://www.bilibili.com/video/av39533813)<br />[av39529780](https://www.bilibili.com/video/av39529780)<br />[av39753796](https://www.bilibili.com/video/av39753796)<br />[av39859914](https://www.bilibili.com/video/av39859914)<br />[av39951376](https://www.bilibili.com/video/av39951376)<br />[av39968719](https://www.bilibili.com/video/av39968719) |
-| Python  | [av39502477](https://www.bilibili.com/video/av39502477)<br />[av39546673](https://www.bilibili.com/video/av39546673)<br />[av39504056](https://www.bilibili.com/video/av39504056)<br />[av40029529](https://www.bilibili.com/video/av40029529) |
+| Python  | [av39502477](https://www.bilibili.com/video/av39502477)<br />[av39546673](https://www.bilibili.com/video/av39546673)<br />[av39504056](https://www.bilibili.com/video/av39504056)<br />[av40029529](https://www.bilibili.com/video/av40029529)<br />[av40702396](https://www.bilibili.com/video/av40702396) |
 | MATLAB | [av40603969](https://www.bilibili.com/video/av40603969) |
 | HTML  | [av39519898](https://www.bilibili.com/video/av39519898)<br />[av39580499](https://www.bilibili.com/video/av39580499)<br />[av39662341](https://www.bilibili.com/video/av39662341)<br />[av39730366](https://www.bilibili.com/video/av39730366)<br />[av39754409](https://www.bilibili.com/video/av39754409)<br />[av40023450](https://www.bilibili.com/video/av40023450) |
 | Markdown  | [av39723339](https://www.bilibili.com/video/av39723339) |
 | TXT  | [av39465305](https://www.bilibili.com/video/av39465305) |
 | 画图 | [av39425866](https://www.bilibili.com/video/av39425866)<br />[av39729989](https://www.bilibili.com/video/av39729989) |
-| MMD  | [av39814511](https://www.bilibili.com/video/av39814511)<br />[av39845997](https://www.bilibili.com/video/av39845997)<br />[av40120653](https://www.bilibili.com/video/av40120653)<br />[av40310047](https://www.bilibili.com/video/av40310047) |
+| MMD  | [av39814511](https://www.bilibili.com/video/av39814511)<br />[av39845997](https://www.bilibili.com/video/av39845997)<br />[av40120653](https://www.bilibili.com/video/av40120653)<br />[av40310047](https://www.bilibili.com/video/av40310047)<br />[av40653849](https://www.bilibili.com/video/av40653849) |
 | B站 | [av39693356](https://www.bilibili.com/video/av39693356) |
 | B站弹幕 | [av39541633](https://www.bilibili.com/video/av39541633)<br />[av39857859](https://www.bilibili.com/video/av39857859) |
 | 三合一 | [av39440955](https://www.bilibili.com/video/av39440955) |
@@ -79,7 +79,7 @@
 | 全员恶人 | [av39769059](https://www.bilibili.com/video/av39769059) |
 | ナユタン星人 | [av39769658](https://www.bilibili.com/video/av39769658) |
 | FlipaClip  | [av39763286](https://www.bilibili.com/video/av39763286) |
-| 手书某幻君 | [av39695810](https://www.bilibili.com/video/av39695810) |
+| 手书 | [av39695810](https://www.bilibili.com/video/av39695810)<br />[av40662571](https://www.bilibili.com/video/av40662571) |
 | DOC  | [av39570651](https://www.bilibili.com/video/av39570651) |
 | 坎巴拉太空计划  | [av39977686](https://www.bilibili.com/video/av39977686) |
 | PmxEditor  | [av40019445](https://www.bilibili.com/video/av40019445) |
