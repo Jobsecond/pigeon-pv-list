@@ -66,6 +66,7 @@
 | Flash | [av39585919](https://www.bilibili.com/video/av39585919) |
 | 手机相册 | [av39556552](https://www.bilibili.com/video/av39556552)<br />[av39646160](https://www.bilibili.com/video/av39646160)<br />[av39647107](https://www.bilibili.com/video/av39647107)<br />[av39722733](https://www.bilibili.com/video/av39722733) |
 | 疯狂戴夫 | [av39609815](https://www.bilibili.com/video/av39609815) |
+| 植物大战僵尸 | [av47165168](https://www.bilibili.com/video/av47165168) |
 | QQ / TIM | [av39660528](https://www.bilibili.com/video/av39660528)<br />[av39330059](https://www.bilibili.com/video/av39330059)<br />[av39673778](https://www.bilibili.com/video/av39673778)<br />[av39922667](https://www.bilibili.com/video/av39922667)<br />[av39997170](https://www.bilibili.com/video/av39997170)<br />[av40492714](https://www.bilibili.com/video/av40492714)<br />[av40625854](https://www.bilibili.com/video/av40625854) |
 | CAD | [av39675200](https://www.bilibili.com/video/av39675200) |
 | SolidWorks | [av39686924](https://www.bilibili.com/video/av39686924) |
